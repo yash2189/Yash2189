@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=yash2189&color=blue)
 <!--
 **yash2189/Yash2189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
