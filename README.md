@@ -22,11 +22,13 @@ A **Software Engineer in Test** currently working at [**Red Hat**](https://redha
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kubernetes.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/terraform.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gnubash.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/apachejmeter.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jenkins.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pytest.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/redhat.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/fedora.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/robotframework.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/selenium.svg" />
 <img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pycharm.svg" />
