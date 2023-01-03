@@ -1,20 +1,36 @@
-### Hi there 👋
+### Hi there 👋 I'm Yash Ajgaonkar
 ![](https://komarev.com/ghpvc/?username=yash2189&color=blue)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yash-ajgaonkar-289520168)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_yashajgkr_x30/)
+
+
+
 <!--
 **yash2189/Yash2189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+A **Software Engineer in Test** currently working at [**Red Hat**](https://redhat.com/); who likes to break interesting stuff (and occasionally build some) while exploring the new tech.
 
-- 🌱 I’m currently learning Flutter...
-- 👬 I’m looking to collaborate on open source projects...
+- 🔭 I’m currently working on Red Hat's SaaS offerings
+- 🌱 I’m currently exploring [Kubernetes](https://kubernetes.io/)
+- 📫 How to reach me: yashajgaonkar24@gmail.com
+- ⚡ Fun fact: I use Tabs over Spaces
+
 
 ### Languages and Tools:
-<img align="left" alt="DART" width="26px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" />
-<img align="left" alt="Flutter" width="50px" src="https://miro.medium.com/max/700/1*TkNd1PwwwdBi9Z3kdG5Hng.png" />
-<img align="left" alt="Python" width="50px" src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" />
-<img align="left" alt="XD" width="65" src="https://www.subtraction.com/wp-content/uploads/2018/05/2018-05-14-adobe-xd-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<br/>
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kubernetes.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/terraform.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/apachejmeter.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jenkins.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pytest.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/redhat.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/robotframework.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/selenium.svg" />
+<img align = "left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pycharm.svg" />
+
 
 <br/>
 
