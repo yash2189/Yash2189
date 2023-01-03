@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yash Ajgaonkar
+### Hi there 👋, I'm Yash Ajgaonkar
 ![](https://komarev.com/ghpvc/?username=yash2189&color=blue)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yash-ajgaonkar-289520168)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_yashajgkr_x30/)
