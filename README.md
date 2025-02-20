@@ -11,8 +11,8 @@
 
 A **Software Engineer in Test** currently working at [**Red Hat**](https://redhat.com/); who likes to break interesting stuff (and occasionally build some) while exploring the new tech.
 
-- 🔭 I’m currently working on Red Hat's SaaS offerings
-- 🌱 I’m currently exploring [Kubernetes](https://kubernetes.io/)
+- 🔭 I’m currently working on Red Hat OpenShift
+- 🌱 I’m currently exploring [Kubernetes](https://kubernetes.io/) and [Go](https://go.dev/)
 - 📫 How to reach me: yashajgaonkar24@gmail.com
 - ⚡ Fun fact: I use Tabs over Spaces
 
