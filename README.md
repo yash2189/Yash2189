@@ -9,7 +9,7 @@
 **yash2189/Yash2189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-A **Software Engineer** currently working at [**Red Hat**](https://redhat.com/); who likes to break interesting stuff (and occasionally build some) while exploring the new tech.
+A **Software Engineer** currently working at [**Red Hat**](https://redhat.com/); who likes to break interesting stuff (and occasionally build some).
 
 🔭 I’m currently working on Konflux, OpenShift, Tekton, Go, Python  
 🌱 Interested in software supply-chain security and developer platforms  
