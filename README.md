@@ -19,7 +19,13 @@ A **Software Engineer** currently working at [**Red Hat**](https://redhat.com/);
 
 ### Languages and Tools:
 
-[![Languages and Tools](https://skillicons.dev/icons?i=python,go,docker,kubernetes,openshift,tekton,bash,jenkins,terraform,selenium,grafana,redhat,pytest)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,docker,kubernetes,openshift,bash,jenkins,terraform,selenium,grafana,redhat" alt="Languages and Tools" />
+  </a>
+  <img src="https://cdn.simpleicons.org/tekton/24B6E6" alt="Tekton" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" height="48" width="48" />
+</p>
 
 
 <br/>
