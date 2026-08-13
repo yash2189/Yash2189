@@ -14,7 +14,7 @@ A **Software Engineer** currently working at [**Red Hat**](https://redhat.com/);
 - 🔭 I’m currently working on Konflux, OpenShift, Tekton, Go, Python
 - 🌱 I’m currently exploring [Kubernetes](https://kubernetes.io/) and [Go](https://go.dev/)
 - 📫 How to reach me: yashajgaonkar24@gmail.com
-- ⚡ Fun fact: I use Tabs over Spaces
+- ⚡ Fun fact: Happiest when CI is green on a Friday — usually after a gym session and a stubborn pipeline debug
 
 
 ### Languages and Tools:
